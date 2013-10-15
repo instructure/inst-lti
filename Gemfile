@@ -8,6 +8,7 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'jquery-rails'
 gem 'pg'
 
+gem 'newrelic_rpm'
 gem 'dotenv-rails', :groups => [:development, :test]
 gem 'rails_12factor', group: :production
 

@@ -69,6 +69,7 @@ GEM
     minitest (4.7.5)
     multi_json (1.8.2)
     multipart-post (1.2.0)
+    newrelic_rpm (3.6.7.159)
     oauth (0.4.7)
     pg (0.17.0)
     polyglot (0.3.3)
@@ -139,6 +140,7 @@ DEPENDENCIES
   dotenv-rails
   inst_lti_twitter (~> 0.0.1)
   jquery-rails
+  newrelic_rpm
   pg
   rails (= 4.0.0)
   rails_12factor
