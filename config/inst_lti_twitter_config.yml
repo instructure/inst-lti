@@ -11,4 +11,4 @@ test:
   <<: *default
 
 production:
-  # intentionally blank for heroku
+  blank: intentional
